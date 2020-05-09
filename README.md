@@ -1,4 +1,4 @@
-#Awful. Known Issues:
+# Awful. Known Issues:
 
 - when not running default.xml, it will redirect to default.xml when answering incorrectly or something.
 - imports base64 for no reason
