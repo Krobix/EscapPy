@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<data>
+
+
+<page id="0" correct-answer="423">
+
+<h1>ESCAPE ROOM</h1>
+<p>You wake up in a strange dark room. There are no windows. There is a door leading to outside, and it has a 3-character number lock, with each number being between zero and nine. You must guess the number code to leave the room. Attached to the door is a piece of paper, with the words "SnOwfLaKEs aRe unbrEakABLe". What is the code?<br/><br/>HINT: the first number is 4.</p>
+
+</page>
+
+<page id="1" correct-answer="85">
+
+<h1>THE HALLWAY</h1>
+<p>You successfully open the door and walk out into the hallway. It is long and straight and there is a locked door on the other end. There are 100 keys hanging from the wall. On the locked door is a paper hanging, with "FF - AA" written on it. Enter the number of the key you will try. <br/><br/>Hint: F = 16</p>
+
+</page>
+
+<page id="2" correct-answer="98">
+
+<h1>STAIRCASE</h1>
+
+<p>There is a single staircase in this room, with 100 individual stairs. Each stair has a single door to go with it. Each stair has a color, and writing on the wall tells you that the exit has a green colored stair, and that it is the highest green stair. The pattern is green, green, orange, red, blue, red, green, red. Enter the number of the door that you will go through. </p>
+
+</page>
+
+<page id="3" correct-answer="358">
+
+<h1>YARD</h1>
+
+<p>You are now on a yard outside the building, the fence is high and unclimbable. The onky other thing oit there is a small black box with a 3-digit code that you must input. Attached to it, is a paper reading, "0, 1, 1, 2..."<br/><br/>It seems like you must enter the next 3 digits in this pattern.</p>
+
+</page>
+
+<page id="4" correct-answer="4231">
+
+<h1>THE GATE</h1>
+<p>You succesfully open the box, and there are four keys inside, labeled 1, 2, 3, and 4. You notice that the lock on the gate to leave has four differnet key slots. There is also a note in the box that reads "24, 2, 6, 1". Enter the order that you will put the keys in.</p>
+
+</page>
+
+</data>
