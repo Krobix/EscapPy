@@ -63,4 +63,4 @@ def escaperoom_pg(filename, pagekey):
 	return process_page(current_page)
 		
 	
-bottle.run(host="localhost", port="80", debug=True)
+bottle.run(host="0.0.0.0", port="80", debug=True)
